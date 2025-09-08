@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-Hello, I'm Anish Sharma, a 16-year-old hailing from Punjab, India. I proudly serve as the Founder of Master Development, where we pave the way for innovation and growth with every project we undertake.
-
+Hello, I'm Anish Sharma, a 17-year-old hailing from Punjab, India. 
 ## ♥️Love to code in 
 ### M E R N STACK
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
